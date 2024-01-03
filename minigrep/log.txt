@@ -1,0 +1,12 @@
+["target/debug/minigrep", "THE", "poem.txt"]
+Searching for THE in file poem.txt
+This is the first line of the poem.
+The second line follows closely behind.
+As the third line appears, the words start to rhyme.
+In the fourth line, emotions begin to unwind.
+The fifth line brings a sense of mystery and suspense.
+With the sixth line, the reader's interest is intense.
+The seventh line introduces a new character to the scene.
+In the eighth line, the setting becomes serene.
+The ninth line reveals a hidden secret.
+And finally, the tenth line brings the poem to a complete.

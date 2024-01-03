@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "minigrep",
+        "dialoguer"
+    ],
+    "rust-analyzer.linkedProjects": [
+        "./minigrep_with_clap/Cargo.toml"
+    ]
+}
